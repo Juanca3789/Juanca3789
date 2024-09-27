@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Juan Carlos Clavijo Triviño
+### Estudiante Ingeniería de Sistemas y computación
 <!--
 **Juanca3789/Juanca3789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
