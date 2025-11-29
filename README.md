@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Carlos Clavijo
+# Juan Carlos Clavijo
 ### Estudiante de Ingeniería de Sistemas • Sistemas Embebidos • C++ • Redes • Android Nativo
 
 Me gusta construir cosas desde cero: firmware, motores gráficos, apps nativas y redes embebidas.  
